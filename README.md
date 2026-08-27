@@ -26,7 +26,7 @@ With Rockstar Games preparing for the commercial launch of Grand Theft Auto VI, 
 - Geographic & Regional Performance: Map revenue distributions, market sizes, and local adoption rates (country and region) to identify top-performing global markets.
 - Channel Dynamics: Monitor sales channels and retailers alongside promotional events.
 
-Data Cleaning, Standardization, and Transformation
+## Data Transformation and Cleaning
 To transform the raw gta_v_worldwide_sales dataset into a star-schema model, ETL transformations were executed in Excel using PowerQuery prior to building relationships in Tableau Desktop's Logical layer:
 
 - Creating Data Model: Split the dense flat file containing mixed all the data into a central fact table and 7 lookup dimension tables.

@@ -20,6 +20,9 @@ With Grand Theft Auto V spanning multiple console generations, digital shifts, a
 ### Problem Statement
 With Rockstar Games preparing for the commercial launch of Grand Theft Auto VI, leadership needed a comprehensive evaluation of Grand Theft Auto V's performance across its decade-long lifecycle. Without a centralized baseline comparing regional sales channels, platform generations, DLC revenue drivers, and promotional impacts, executive teams lack empirical benchmarks to set realistic revenue targets, optimize regional distribution strategies, and model player engagement metrics for GTA VI.
 
+## Data Pipeline and Architecture
+[Raw Dataset] ➔ [Power Query ETL] ➔ [Star Schema Data Model] ➔ [Calculated Fields & Parameters] ➔ [Interactive Tableau Workbook]
+
 ### Project Objectives
 - Lifecycle Revenue Benchmarking: Analyze cumulative financial performance (Revenue and Downloadable Content Revenue) across release phases and game editions.
 - Platform Analysis: Evaluate sales adoption and engagement trends across gaming platforms.

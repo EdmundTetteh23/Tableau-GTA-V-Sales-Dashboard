@@ -49,6 +49,27 @@ The transformed data architecture follows a Star Schema centered around the tran
 - dim_sales_channel: Channel classification lookup table (sales_channel_id, sales_channel).
 - dim_special_event: Promotional campaign directory (special_event_id, special_event).
 
+## Tableau Calculations and Business Logic
+<img width="561" height="657" alt="Metric Parameter" src="https://github.com/user-attachments/assets/9d940401-6ce8-43e2-8269-c9dba3832f9a" />
+
+<img width="555" height="652" alt="Year Parameter" src="https://github.com/user-attachments/assets/9b6ac54e-2df7-4e41-8582-63174b697030" />
+
+<img width="732" height="429" alt="Revenue CY" src="https://github.com/user-attachments/assets/72978cbb-4dda-45be-981d-409bafb99322" />
+
+<img width="728" height="427" alt="Revenue PY" src="https://github.com/user-attachments/assets/bde1768d-fc13-4e6c-b95f-db39815d6556" />
+
+<img width="731" height="429" alt="YoY Revenue" src="https://github.com/user-attachments/assets/a199c65c-8dde-41b8-957e-f276337f30ad" />
+
+<img width="731" height="430" alt="Metric CY" src="https://github.com/user-attachments/assets/b131e9ec-8339-481f-8178-8d680c64761d" />
+
+<img width="731" height="430" alt="CY Label" src="https://github.com/user-attachments/assets/7f1e5ea2-6c9c-4ddd-954c-32e0a3fb5981" />
+
+<img width="731" height="431" alt="Metric PY" src="https://github.com/user-attachments/assets/0771771a-b5e5-4433-b07a-2727bb091529" />
+
+<img width="731" height="428" alt="PY Label" src="https://github.com/user-attachments/assets/45c9792e-1c53-4c05-be39-1da74f67d982" />
+
+<img width="732" height="429" alt="Metric YoY" src="https://github.com/user-attachments/assets/b89696bb-ab88-4ac8-9ce0-f23466766bda" />
+
 ## Tech Stack
 - Data Prep & ETL: Power Query Excel
 - Data Modeling: Tableau Data Logical Layer 

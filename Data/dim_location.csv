@@ -1,0 +1,89 @@
+location_id,country_code,country,region
+1,DZA,Algeria,Africa
+2,ARG,Argentina,South America
+3,ARM,Armenia,Asia
+4,AUS,Australia,Oceania
+5,AUT,Austria,Europe
+6,AZE,Azerbaijan,Asia
+7,BHR,Bahrain,Asia
+8,BGD,Bangladesh,Asia
+9,BEL,Belgium,Europe
+10,BRA,Brazil,South America
+11,BGR,Bulgaria,Europe
+12,KHM,Cambodia,Asia
+13,CAN,Canada,North America
+14,CHL,Chile,South America
+15,CHN,China,Asia
+16,COL,Colombia,South America
+17,HRV,Croatia,Europe
+18,CYP,Cyprus,Europe
+19,CZE,Czech Republic,Europe
+20,DNK,Denmark,Europe
+21,ECU,Ecuador,South America
+22,EGY,Egypt,Africa
+23,EST,Estonia,Europe
+24,ETH,Ethiopia,Africa
+25,FJI,Fiji,Oceania
+26,FIN,Finland,Europe
+27,FRA,France,Europe
+28,GEO,Georgia,Asia
+29,DEU,Germany,Europe
+30,GHA,Ghana,Africa
+31,GRC,Greece,Europe
+32,HKG,Hong Kong,Asia
+33,HUN,Hungary,Europe
+34,ISL,Iceland,Europe
+35,IND,India,Asia
+36,IDN,Indonesia,Asia
+37,IRQ,Iraq,Asia
+38,IRL,Ireland,Europe
+39,ISR,Israel,Asia
+40,ITA,Italy,Europe
+41,JPN,Japan,Asia
+42,JOR,Jordan,Asia
+43,KAZ,Kazakhstan,Asia
+44,KEN,Kenya,Africa
+45,KWT,Kuwait,Asia
+46,LVA,Latvia,Europe
+47,LBN,Lebanon,Asia
+48,LTU,Lithuania,Europe
+49,LUX,Luxembourg,Europe
+50,MYS,Malaysia,Asia
+51,MEX,Mexico,North America
+52,MAR,Morocco,Africa
+53,MMR,Myanmar,Asia
+54,NPL,Nepal,Asia
+55,NLD,Netherlands,Europe
+56,NZL,New Zealand,Oceania
+57,NGA,Nigeria,Africa
+58,NOR,Norway,Europe
+59,OMN,Oman,Asia
+60,PAK,Pakistan,Asia
+61,PER,Peru,South America
+62,PHL,Philippines,Asia
+63,POL,Poland,Europe
+64,PRT,Portugal,Europe
+65,QAT,Qatar,Asia
+66,ROU,Romania,Europe
+67,RUS,Russia,Europe
+68,SAU,Saudi Arabia,Asia
+69,SRB,Serbia,Europe
+70,SGP,Singapore,Asia
+71,SVK,Slovakia,Europe
+72,SVN,Slovenia,Europe
+73,ZAF,South Africa,Africa
+74,KOR,South Korea,Asia
+75,ESP,Spain,Europe
+76,LKA,Sri Lanka,Asia
+77,SWE,Sweden,Europe
+78,CHE,Switzerland,Europe
+79,TWN,Taiwan,Asia
+80,THA,Thailand,Asia
+81,TUN,Tunisia,Africa
+82,TUR,Turkey,Europe
+83,UKR,Ukraine,Europe
+84,ARE,United Arab Emirates,Asia
+85,GBR,United Kingdom,Europe
+86,USA,United States,North America
+87,URY,Uruguay,South America
+88,VNM,Vietnam,Asia

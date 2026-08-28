@@ -50,6 +50,8 @@ The transformed data architecture follows a Star Schema centered around the tran
 - dim_special_event: Promotional campaign directory (special_event_id, special_event).
 
 ## Tableau Calculations and Business Logic
+Analytical logic and metric parameter switching implemented via dynamic Tableau Calculated Fields and Dynamic Parameters
+
 <img width="561" height="657" alt="Metric Parameter" src="https://github.com/user-attachments/assets/9d940401-6ce8-43e2-8269-c9dba3832f9a" />
 
 <img width="555" height="652" alt="Year Parameter" src="https://github.com/user-attachments/assets/9b6ac54e-2df7-4e41-8582-63174b697030" />

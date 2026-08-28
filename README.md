@@ -32,7 +32,7 @@ With Rockstar Games preparing for the commercial launch of Grand Theft Auto VI, 
 ## Data Transformation and Cleaning
 To transform the raw gta_v_worldwide_sales dataset into a star-schema model, ETL transformations were executed in Excel using PowerQuery prior to building relationships in Tableau Desktop's Logical layer:
 
-- Creating Data Model: Split the dense flat file containing mixed all the data into a central fact table and 7 lookup dimension tables.
+- Creating Data Model: Split the dense flat file containing all the data into a central fact table and 7 lookup dimension tables.
 - Surrogate Key Assignment: Generated primary key IDs (location_id, platform_id, game_edition_id, retailer_id, sales_channel_id, release_phase_id, special_event_id) using Index, across lookup tables to enable clean one-to-many relationships with the fact table.
 - Field Standardization & Cleansing: Converted country codes into standardized full country names.
 

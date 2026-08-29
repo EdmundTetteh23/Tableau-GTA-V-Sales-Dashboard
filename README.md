@@ -72,6 +72,16 @@ Analytical logic and metric parameter switching implemented via dynamic Tableau 
 
 <img width="732" height="429" alt="Metric YoY" src="https://github.com/user-attachments/assets/b89696bb-ab88-4ac8-9ce0-f23466766bda" />
 
+## Key Business Insights
+- DLC Revenue Outpaces Base Game Sales: Total DLC revenue ($203.9M) exceeded base game sales revenue ($171.0M), demonstrating that long-term post-launch content updates and in-game purchases represent the primary financial driver over a game's lifecycle.
+- Digital Distribution: Digital channels dominate both unit sales (9.5M out of 12.57M units) and DLC revenue ($157.7M out of $203.9M), driven by major PC storefronts (Steam and Epic Games Store) which generated over $64M in DLC revenue combined.
+- European & Asian Market Dominance: Europe and Asia represent the largest consumer bases, contributing $66.4M and $51.8M in base revenue respectively, while Europe leads global DLC spending at $78.3M.
+- Holiday & Promotional Revenue Spikes: December consistently serves as the peak month for game revenue ($21.9M) and DLC purchases ($24.1M), amplified by seasonal promotional campaigns like the Steam Summer Sale ($24.2M revenue) and Black Friday ($21.9M revenue).
+
+## Strategic Recommendations
+- Prioritize Digital & Live-Service Monetization for GTA VI: Given that DLC revenue surpassed base game sales by nearly $33M, Rockstar should structure GTA VI’s post-launch ecosystem to offer continuous live-service content drops starting within the first 12 months post-release.
+- Target Regional Pricing & Seasonal Campaigns: Align launch promos and post-launch expansion events around Q4 holiday cycles and major global sales (Steam Summer Sale / Black Friday), tailoring regional pricing to sustain high adoption across top Asian and European markets.
+
 ## Tech Stack
 - Data Prep & ETL: Power Query Excel
 - Data Modeling: Tableau Data Logical Layer 

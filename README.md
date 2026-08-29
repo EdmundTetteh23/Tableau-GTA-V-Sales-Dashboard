@@ -82,11 +82,13 @@ Channel & Lifecycle Performance Overview: Dynamic primary view evaluating the se
 - Storefronts & Retailers: Revenue, Unit distributions and DLC Revenue across digital and physical sellers (Steam, Epic Games Store, PlayStation Store, Microsoft Store).
 - Promotions & Seasonality: Impact of special events (Steam Summer Sale, Black Friday, Christmas) and monthly trend lines (peaking in December).
 - Lifecycle Dynamics: Multi-year performance trend line with year-over-year comparison overlays (Current Year vs. Previous Year legend via the Year Parameter), release phases (Launch, Growth, Mature, Legacy), platform consoles (PC, PS4, Xbox One, PS3, PS5, Xbox Series X|S), and channel splits (Digital vs. Physical).
+<img width="1599" height="899" alt="1_revenue" src="https://github.com/user-attachments/assets/bac0b44d-0600-41ec-8992-c0a668c5d7d8" />
 
 ### Dashboard 2
 - Regional Yields: Performance split by continent (Europe, Asia, North America, South America, Africa, Oceania).
 - Product Tiering: Yields driven by game versions (Standard Edition, Premium Edition, Legacy Edition, Criminal Enterprise Starter Pack).
 - Global Map Overlay: Interactive geographical visualization highlighting country-level revenue, unit distributions, dlc revenue.
+<img width="799" height="447" alt="2_units" src="https://github.com/user-attachments/assets/593dff65-b93a-4ea4-ae00-79678acd02a6" />
 
 ## Key Business Insights
 - DLC Revenue Outpaces Base Game Sales: Total DLC revenue ($203.9M) exceeded base game sales revenue ($171.0M), demonstrating that long-term post-launch content updates and in-game purchases represent the primary financial driver over a game's lifecycle.

@@ -72,6 +72,22 @@ Analytical logic and metric parameter switching implemented via dynamic Tableau 
 
 <img width="732" height="429" alt="Metric YoY" src="https://github.com/user-attachments/assets/b89696bb-ab88-4ac8-9ce0-f23466766bda" />
 
+## Dashboards and Visualizations
+The Tableau workbook features a streamlined 2-dashboard architecture driven by dynamic parameters: a Metric Parameter Switcher (toggling seamlessly between Revenue, Units Sold, and DLC Revenue) and a Year Parameter (enabling year-over-year sales and engagement comparisons across identical visual views):
+
+Executive KPI Summary Header: Top-level performance indicators tracking overall project totals ($171.0M Total Base Revenue, 12.57M Total Units Sold, and $203.9M Total DLC Revenue).
+
+### Dashboard 1 
+Channel & Lifecycle Performance Overview: Dynamic primary view evaluating the selected metric (Revenue, Units, or DLC Revenue) across:
+- Storefronts & Retailers: Revenue, Unit distributions and DLC Revenue across digital and physical sellers (Steam, Epic Games Store, PlayStation Store, Microsoft Store).
+- Promotions & Seasonality: Impact of special events (Steam Summer Sale, Black Friday, Christmas) and monthly trend lines (peaking in December).
+- Lifecycle Dynamics: Multi-year performance trend line with year-over-year comparison overlays (Current Year vs. Previous Year legend via the Year Parameter), release phases (Launch, Growth, Mature, Legacy), platform consoles (PC, PS4, Xbox One, PS3, PS5, Xbox Series X|S), and channel splits (Digital vs. Physical).
+
+### Dashboard 2
+- Regional Yields: Performance split by continent (Europe, Asia, North America, South America, Africa, Oceania).
+- Product Tiering: Yields driven by game versions (Standard Edition, Premium Edition, Legacy Edition, Criminal Enterprise Starter Pack).
+- Global Map Overlay: Interactive geographical visualization highlighting country-level revenue, unit distributions, dlc revenue.
+
 ## Key Business Insights
 - DLC Revenue Outpaces Base Game Sales: Total DLC revenue ($203.9M) exceeded base game sales revenue ($171.0M), demonstrating that long-term post-launch content updates and in-game purchases represent the primary financial driver over a game's lifecycle.
 - Digital Distribution: Digital channels dominate both unit sales (9.5M out of 12.57M units) and DLC revenue ($157.7M out of $203.9M), driven by major PC storefronts (Steam and Epic Games Store) which generated over $64M in DLC revenue combined.

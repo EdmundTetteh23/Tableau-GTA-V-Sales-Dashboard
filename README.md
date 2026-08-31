@@ -32,6 +32,10 @@ With Rockstar Games preparing for the commercial launch of Grand Theft Auto VI, 
 ## Data Transformation and Cleaning
 To transform the raw gta_v_worldwide_sales dataset into a star-schema model, ETL transformations were executed in Excel using PowerQuery prior to building relationships in Tableau Desktop's Logical layer:
 
+<img width="1366" height="768" alt="dim_location" src="https://github.com/user-attachments/assets/d21bafeb-45a1-423b-8f46-e5f5ba245cef" />
+
+<img width="1366" height="768" alt="dim_special_event" src="https://github.com/user-attachments/assets/ad31991b-90fb-408b-aaed-2e816fa30b5d" />
+
 - Creating Data Model: Split the dense flat file containing all the data into a central fact table and 7 lookup dimension tables.
 - Surrogate Key Assignment: Generated primary key IDs (location_id, platform_id, game_edition_id, retailer_id, sales_channel_id, release_phase_id, special_event_id) using Index, across lookup tables to enable clean one-to-many relationships with the fact table.
 - Field Standardization & Cleansing: Converted country codes into standardized full country names.
@@ -73,9 +77,9 @@ Analytical logic and metric parameter switching implemented via dynamic Tableau 
 <img width="732" height="429" alt="Metric YoY" src="https://github.com/user-attachments/assets/b89696bb-ab88-4ac8-9ce0-f23466766bda" />
 
 ## Dashboards and Visualizations
-The Tableau workbook features a streamlined 2-dashboard architecture driven by dynamic parameters: a Metric Parameter Switcher (toggling seamlessly between Revenue, Units Sold, and DLC Revenue) and a Year Parameter (enabling year-over-year sales and engagement comparisons across identical visual views):
+The Tableau workbook features a 2 page dashboard driven by dynamic parameters: a Metric Parameter Switcher (toggling seamlessly between Revenue, Units Sold, and DLC Revenue) and a Year Parameter (enabling year-over-year sales and engagement comparisons across identical visual views):
 
-Executive KPI Summary Header: Top-level performance indicators tracking overall project totals ($171.0M Total Base Revenue, 12.57M Total Units Sold, and $203.9M Total DLC Revenue).
+- Executive KPI Summary Header: Top-level performance indicators tracking overall project totals ($171.0M Total Base Revenue, 12.57M Total Units Sold, and $203.9M Total DLC Revenue).
 
 ### Dashboard 1 
 Channel & Lifecycle Performance Overview: Dynamic primary view evaluating the selected metric (Revenue, Units, or DLC Revenue) across:
